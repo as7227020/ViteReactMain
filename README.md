@@ -1,1 +1,2 @@
-* postcss / tailwindcss
+* + postcss / tailwindcss
+* + JavaScripts
